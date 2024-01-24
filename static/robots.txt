@@ -1,0 +1,10 @@
+User-agent: *
+Allow: /
+
+User-agent: *
+Disallow: /all-images
+Disallow: /all-images/
+Disallow: /all-images/**
+
+Sitemap: https://getbenne.com/sitemap-index.xml
+Sitemap: https://getbenne.com/sitemaps/sitemap-1.xml

@@ -1,0 +1,8 @@
+@import url('https://fonts.googleapis.com/css2?family=Archivo+Black&family=Inter:wght@500;600;700;900&family=Montserrat:wght@400;500;600;800&family=Poppins:wght@400;500;800&display=swap');
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+code {
+    @apply text-indigo-600 font-semibold;
+}
