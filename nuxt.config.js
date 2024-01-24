@@ -9,12 +9,12 @@ export default {
             lang: 'en'
         },
         link: [
-            { hid: "shortcut_icon", rel: 'icon', type: 'png', href: '/logos/64x64.png' },
-            { rel: 'icon', type: 'image/png', href: '/logos/logo.png' },
-            { rel: 'shortcut icon', type: 'image/png', href: '/logos/logo.png' },
-            { rel: 'shortcut icon', type: 'image/png', href: '/logos/favicon-16x16.png', sizes: '16x16' },
-            { rel: 'shortcut icon', type: 'image/png', href: '/logos/favicon-32x32.png', sizes: '32x32' },
-            { rel: 'shortcut icon', type: 'image/png', href: '/logos/favicon-96x96.png', sizes: '96x96' },
+            { hid: "shortcut_icon", rel: 'icon', type: 'png', href: '/test/clearlink.png' },
+            { rel: 'icon', type: 'image/png', href: '/test/clearlink.png' },
+            { rel: 'shortcut icon', type: 'image/png', href: '/test/clearlink.png' },
+            { rel: 'shortcut icon', type: 'image/png', href: '/test/clearlink.png', sizes: '16x16' },
+            { rel: 'shortcut icon', type: 'image/png', href: '/test/clearlink.png', sizes: '32x32' },
+            { rel: 'shortcut icon', type: 'image/png', href: '/test/clearlink.png', sizes: '96x96' },
         ],
         script: [
             // { "async": true, "src": 'https://getbenne.com/core.js', "data-site": analytics_details.id, "data-domain": analytics_details.domain },

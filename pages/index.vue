@@ -85,38 +85,43 @@
                 </div>
                 <div class="mt-5 text-[#667085] max-w-[842px] text-2xl font-normal">In a world where connection is everything, ClearLink takes the lead. Our cutting-edge video conferencing app offers:</div>
             </div>
-            <div class="flex items-center justify-between">
-                <div class="my-auto grid grid-cols-2 gap-x-10 gap-y-[60px] max-w-[800px]">
-                    <div class="">
-                        <img src="/test/clearlink/why-choose-clearlink/cam.svg" alt="" class="mb-5" />
-                        <div class="space-y-2 font-inter">
-                            <div class="font-semibold text-[#101828] text-2xl">Crystal-clear HD video</div>
-                            <div class="font-regular text-[#475467] text-lg">No more pixelation or blurriness – just stunning, lifelike clarity that brings your team closer in meetings.</div>
+            <div class="absolute top-12 right-52">
+                <img src="/test/clearlink/arrow.svg" alt="" />
+            </div>
+            <div class="">
+                <div class="flex items-center justify-between">
+                    <div class="my-auto grid grid-cols-2 gap-x-10 gap-y-[60px] max-w-[800px]">
+                        <div class="">
+                            <img src="/test/clearlink/why-choose-clearlink/cam.svg" alt="" class="mb-5" />
+                            <div class="space-y-2 font-inter">
+                                <div class="font-semibold text-[#101828] text-2xl">Crystal-clear HD video</div>
+                                <div class="font-regular text-[#475467] text-lg">No more pixelation or blurriness – just stunning, lifelike clarity that brings your team closer in meetings.</div>
+                            </div>
+                        </div>
+                        <div class="">
+                            <img src="/test/clearlink/why-choose-clearlink/audio.svg" alt="" class="mb-5" />
+                            <div class="space-y-2 font-inter">
+                                <div class="font-semibold text-[#101828] text-2xl">Noise-canceling audio</div>
+                                <div class="font-regular text-[#475467] text-lg">Say goodbye to distractions with our advanced audio tech for crisp, interruption-free conversations.</div>
+                            </div>
+                        </div>
+                        <div class="">
+                            <img src="/test/clearlink/why-choose-clearlink/calendar.svg" alt="" class="mb-5" />
+                            <div class="space-y-2 font-inter">
+                                <div class="font-semibold text-[#101828] text-2xl">Scheduling made easy</div>
+                                <div class="font-regular text-[#475467] text-lg">Streamline your agenda with ClearLink's intuitive scheduling. Set up meetings, send invitations, and receive reminders in one place.</div>
+                            </div>
+                        </div>
+                        <div class="">
+                            <img src="/test/clearlink/why-choose-clearlink/security.svg" alt="" class="mb-5" />
+                            <div class="space-y-2 font-inter">
+                                <div class="font-semibold text-[#101828] text-2xl">Bank-grade security</div>
+                                <div class="font-regular text-[#475467] text-lg">Your privacy is our priority with bank-grade security protocols safeguarding your meetings and data from unwanted intruders.</div>
+                            </div>
                         </div>
                     </div>
-                    <div class="">
-                        <img src="/test/clearlink/why-choose-clearlink/audio.svg" alt="" class="mb-5" />
-                        <div class="space-y-2 font-inter">
-                            <div class="font-semibold text-[#101828] text-2xl">Noise-canceling audio</div>
-                            <div class="font-regular text-[#475467] text-lg">Say goodbye to distractions with our advanced audio tech for crisp, interruption-free conversations.</div>
-                        </div>
-                    </div>
-                    <div class="">
-                        <img src="/test/clearlink/why-choose-clearlink/calendar.svg" alt="" class="mb-5" />
-                        <div class="space-y-2 font-inter">
-                            <div class="font-semibold text-[#101828] text-2xl">Scheduling made easy</div>
-                            <div class="font-regular text-[#475467] text-lg">Streamline your agenda with ClearLink's intuitive scheduling. Set up meetings, send invitations, and receive reminders in one place.</div>
-                        </div>
-                    </div>
-                    <div class="">
-                        <img src="/test/clearlink/why-choose-clearlink/security.svg" alt="" class="mb-5" />
-                        <div class="space-y-2 font-inter">
-                            <div class="font-semibold text-[#101828] text-2xl">Bank-grade security</div>
-                            <div class="font-regular text-[#475467] text-lg">Your privacy is our priority with bank-grade security protocols safeguarding your meetings and data from unwanted intruders.</div>
-                        </div>
-                    </div>
+                    <img src="/test/clearlink/why-choose-clearlink.png" alt="" />
                 </div>
-                <img src="/test/clearlink/why-choose-clearlink.png" alt="" />
             </div>
         </div>
         <div id="testimonial" class="relative w-full py-24 bg-[#F9FAFB]">
@@ -189,13 +194,35 @@
         <div class="flex-1 flex flex-col"></div>
         <div class="relative w-full pt-24 h-[697px]">
             <div class="flex w-full mx-auto max-w-[1403px] pb-24">
-                <div class="w-1/2">
-                    <div class="font-semibold text-5xl font-inter leading-[60px]">Ready to clear the path to perfect communication?</div>
+                <div class="w-1/2 font-regular text-[#475467] font-inter">
+                    <div class="font-semibold text-5xl leading-[60px] mb-8">Ready to clear the path to perfect communication?</div>
+                    <div class="pl-4 space-y-5">
+                        <div class="space-x-3 flex items-center">
+                            <img src="/test/clearlink/check.svg" alt="" />
+                            <div class="">30 days free trial</div>
+                        </div>
+                        <div class="space-x-3 flex items-center">
+                            <img src="/test/clearlink/check.svg" alt="" />
+                            <div class="">Cancel at any time</div>
+                        </div>
+                        <div class="space-x-3 flex items-center">
+                            <img src="/test/clearlink/check.svg" alt="" />
+                            <div class="">Access to all features</div>
+                        </div>
+                        <div class="space-x-3 flex items-center">
+                            <img src="/test/clearlink/check.svg" alt="" />
+                            <div class="">Personalized onboarding</div>
+                        </div>
+                    </div>
+                    <div class="mt-10 flex items-center space-x-2 font-inter font-semibold text-base">
+                        <button class="px-6 py-3.5 border border-[#98A2B3] rounded-full text-[#101828]">Talk to sales</button>
+                        <button class="px-6 py-3.5 rounded-full text-white bg-[#175CD3]">Start your free trial</button>
+                    </div>
                 </div>
             </div>
             <img src="/test/clearlink/cta.png" alt="" class="absolute bottom-0 right-0">
         </div>
-        <div class="pt-24 pb-12 bg-white flex border-t border-red-200">
+        <div class="pt-24 pb-12 bg-white flex">
             <div class="flex w-full mx-auto max-w-[1403px]">
                 <div class="w-[400px]">
                     <div class="flex items-center space-x-2.5 mb-8">
