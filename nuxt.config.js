@@ -4,7 +4,7 @@ const analytics_details = {
 }
 export default {
     head: {
-        title: 'mx-abhishek',
+        title: 'Clearlink',
         htmlAttrs: {
             lang: 'en'
         },
@@ -17,8 +17,8 @@ export default {
             { rel: 'shortcut icon', type: 'image/png', href: '/logos/favicon-96x96.png', sizes: '96x96' },
         ],
         script: [
-            { "async": true, "src": 'https://getbenne.com/core.js', "data-site": analytics_details.id, "data-domain": analytics_details.domain },
-            { "async": true, "src": 'https://mx-abhishek.vercel.app/chat.js', "data-site": "wzqgjx", "data-domain": "getbenne.com", "widget": "1" },
+            // { "async": true, "src": 'https://getbenne.com/core.js', "data-site": analytics_details.id, "data-domain": analytics_details.domain },
+            // { "async": true, "src": 'https://mx-abhishek.vercel.app/chat.js', "data-site": "wzqgjx", "data-domain": "getbenne.com", "widget": "1" },
             // { "async": true, "src": 'https://trycitadel.com/script.js', "data-site": "wzqgjx", "data-domain": "getbenne.com", "widget": "1" },
         ]
     },
